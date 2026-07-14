@@ -15,7 +15,6 @@
 
 ## 5. Gameplay & Fonctionnalités Clés
 
-* [Table des matières](5.-gameplay-and-fonctionnalites-cles/table-des-matieres.md)
 * [5.1 Structure de l'Univers](5.-gameplay-and-fonctionnalites-cles/5.1-structure-de-lunivers.md)
 * [5.2 Système de Ressources](5.-gameplay-and-fonctionnalites-cles/5.2-systeme-de-ressources.md)
 * [5.3 Gestion de l'Empire](5.-gameplay-and-fonctionnalites-cles/5.3-gestion-de-lempire.md)
@@ -29,6 +28,7 @@
 * [5.11 Système d'anti-push/pull](5.-gameplay-and-fonctionnalites-cles/5.11-systeme-danti-push-pull.md)
 * [5.12 Mode Vacances](5.-gameplay-and-fonctionnalites-cles/5.12-mode-vacances.md)
 * [5.13 Expéditions — Espace Profond](5.-gameplay-and-fonctionnalites-cles/5.13-expeditions.md)
+* [5.14 Boucliers & Protections](5.-gameplay-and-fonctionnalites-cles/5.14-boucliers-and-protections.md)
 
 ## 6. Tokenomics
 
