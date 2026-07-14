@@ -28,6 +28,7 @@
 * [5.10 Système d'anti-bashing](5.-gameplay-and-fonctionnalites-cles/5.10-systeme-danti-bashing.md)
 * [5.11 Système d'anti-push/pull](5.-gameplay-and-fonctionnalites-cles/5.11-systeme-danti-push-pull.md)
 * [5.12 Mode Vacances](5.-gameplay-and-fonctionnalites-cles/5.12-mode-vacances.md)
+* [5.13 Expéditions — Espace Profond](5.-gameplay-and-fonctionnalites-cles/5.13-expeditions.md)
 
 ## 6. Tokenomics
 
