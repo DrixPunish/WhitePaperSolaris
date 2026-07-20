@@ -23,7 +23,7 @@
 * [5.6 Défenses Planétaires](5.-gameplay-and-fonctionnalites-cles/5.6-defenses-planetaires.md)
 * [5.7 Lunes](5.-gameplay-and-fonctionnalites-cles/5.7-lunes.md)
 * [5.8 Expéditions — Espace Profond](5.-gameplay-and-fonctionnalites-cles/5.8-expeditions.md)
-* [5.9 Classes de Joueur](5.-gameplay-and-fonctionnalites-cles/5.9-classes-de-joueur.md)
+* [5.9 Maisons](5.-gameplay-and-fonctionnalites-cles/5.9-classes-de-joueur.md)
 * [5.10 Alliances & Gouvernance Sociale](5.-gameplay-and-fonctionnalites-cles/5.10-alliances-and-gouvernance-sociale.md)
 * [5.11 Classements & Scoring](5.-gameplay-and-fonctionnalites-cles/5.11-classements-and-scoring.md)
 * [5.12 Système d'anti-bashing](5.-gameplay-and-fonctionnalites-cles/5.12-systeme-danti-bashing.md)
