@@ -30,6 +30,8 @@
 * [5.13 Boucliers & Protections](5.-gameplay-and-fonctionnalites-cles/5.13-boucliers-and-protections.md)
 * [5.14 Système d'anti-push/pull](5.-gameplay-and-fonctionnalites-cles/5.14-systeme-danti-push-pull.md)
 * [5.15 Mode Vacances](5.-gameplay-and-fonctionnalites-cles/5.15-mode-vacances.md)
+* [5.16 Guerre d'Alliance](5.-gameplay-and-fonctionnalites-cles/5.16-guerre-dalliance.md)
+* [5.17 Combat Coordonné (ACS)](5.-gameplay-and-fonctionnalites-cles/5.17-combat-coordonne-acs.md)
 
 ## 6. Tokenomics
 
