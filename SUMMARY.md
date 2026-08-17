@@ -34,6 +34,7 @@
 * [5.17 Combat Coordonné (ACS)](5.-gameplay-and-fonctionnalites-cles/5.17-combat-coordonne-acs.md)
 * [5.18 Portails Inter-Galactiques](5.-gameplay-and-fonctionnalites-cles/5.18-portails-inter-galactiques.md)
 * [5.19 Conseil Impérial](5.-gameplay-and-fonctionnalites-cles/5.19-conseil-imperial.md)
+* [5.20 Raretés & Astéroïdes](5.-gameplay-and-fonctionnalites-cles/5.20-raretes-and-asteroides.md)
 
 ## 6. Tokenomics
 
