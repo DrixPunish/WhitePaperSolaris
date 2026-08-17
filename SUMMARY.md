@@ -32,6 +32,8 @@
 * [5.15 Mode Vacances](5.-gameplay-and-fonctionnalites-cles/5.15-mode-vacances.md)
 * [5.16 Guerre d'Alliance](5.-gameplay-and-fonctionnalites-cles/5.16-guerre-dalliance.md)
 * [5.17 Combat Coordonné (ACS)](5.-gameplay-and-fonctionnalites-cles/5.17-combat-coordonne-acs.md)
+* [5.18 Portails Inter-Galactiques](5.-gameplay-and-fonctionnalites-cles/5.18-portails-inter-galactiques.md)
+* [5.19 Conseil Impérial](5.-gameplay-and-fonctionnalites-cles/5.19-conseil-imperial.md)
 
 ## 6. Tokenomics
 
