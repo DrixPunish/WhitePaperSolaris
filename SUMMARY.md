@@ -44,7 +44,6 @@
 * [6.4. Mécanismes d'Entrée (Influx)](6.-tokenomics/6.4.-mecanismes-dentree-influx.md)
 * [6.5. Mécanismes de Sortie (Outflow / Burn)](6.-tokenomics/6.5.-mecanismes-de-sortie-outflow-burn.md)
 * [6.6. Le Staking : "Bons Impériaux"](6.-tokenomics/6.6.-le-staking-bons-imperiaux.md)
-* [6.7. Modélisation et Projections](6.-tokenomics/6.7.-modelisation-et-projections.md)
 * [6.8. Protection Contre les Whales](6.-tokenomics/6.8.-protection-contre-les-whales.md)
 * [6.9. Gouvernance Future](6.-tokenomics/6.9.-gouvernance-future.md)
 * [6.10. Résumé des Flux Économiques](6.-tokenomics/6.10.-resume-des-flux-economiques.md)
