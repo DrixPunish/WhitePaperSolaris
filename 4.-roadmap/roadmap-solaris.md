@@ -1,6 +1,6 @@
 # 🗺️ Roadmap Solaris
 
-> Cette roadmap définit les grandes phases de développement du projet Solaris, depuis les fondations gameplay jusqu'au déploiement Web3 complet. Elle s'organise en **5 phases** couvrant le développement technique, le design, la tokenomics, le whitepaper et la construction de la communauté.
+> Cette roadmap définit les grandes phases de développement du projet Solaris, depuis les fondations gameplay jusqu'au déploiement de l'économie complète. Elle s'organise en **5 phases** couvrant le développement technique, le design, la tokenomics, le whitepaper et la construction de la communauté.
 
 ***
 
@@ -8,11 +8,11 @@
 
 | Phase       | Nom         | Focus principal                       | Statut       |
 | ----------- | ----------- | ------------------------------------- | ------------ |
-| **Phase 1** | Genesis     | Mécaniques Web2 — Core Gameplay       | 🔨 En cours  |
-| **Phase 2** | Forge       | UX/UI — Design & Expérience           | 🔜 Planifiée |
-| **Phase 3** | Horizon     | Web3 — Blockchain & Tokenomics        | 🔜 Planifiée |
+| **Phase 1** | Genesis     | Core Gameplay & mécaniques            | 🔨 En cours  |
+| **Phase 2** | Forge       | Design & Expérience (UX/UI)           | 🔜 Planifiée |
+| **Phase 3** | Horizon     | Économie & Tokenomics                 | 🔜 Planifiée |
 | **Phase 4** | Expansion   | Contenu avancé & Gameplay étendu      | 🔜 Planifiée |
-| **Phase 5** | Sovereignty | DAO, gouvernance & écosystème complet | 🔜 Planifiée |
+| **Phase 5** | Sovereignty | Gouvernance & écosystème complet      | 🔜 Planifiée |
 
 ***
 
@@ -55,16 +55,16 @@
 | Jalon                        | Phase       | Description                                    |
 | ---------------------------- | ----------- | ---------------------------------------------- |
 | ✅ **WP Mécaniques v1**       | Pré-Phase 1 | Section Mécaniques du Whitepaper rédigée       |
-| 🔨 **Alpha interne**         | Phase 1     | Toutes les mécaniques Web2 jouables en interne |
+| 🔨 **Alpha interne**         | Phase 1     | Toutes les mécaniques jouables en interne      |
 | 🔨 **Beta fermée**           | Phase 1→2   | 50–200 testeurs invités, feedback gameplay     |
 | 🔜 **Design System v1**      | Phase 2     | Charte graphique et composants UI validés      |
 | 🔜 **Beta ouverte**          | Phase 2     | Accès public limité, interface finalisée       |
-| 🔜 **Audit smart contracts** | Phase 3     | Rapport d'audit publié avant tout déploiement  |
-| 🔜 **Lancement SLR**         | Phase 3     | Token déployé, DEX actif, staking disponible   |
-| 🔜 **Mainnet Launch**        | Phase 3     | Jeu complet Web3 en production                 |
+| 🔜 **Ouverture du marché**   | Phase 3     | Marché des planètes et rampe d'accès actifs    |
+| 🔜 **Lancement du Solar**    | Phase 3     | Monnaie active, marché et staking disponibles  |
+| 🔜 **Lancement public**      | Phase 3     | Jeu complet en production                       |
 | 🔜 **Saison 1**              | Phase 4     | Première saison compétitive officielle         |
-| 🔜 **DAO Launch**            | Phase 5     | Gouvernance décentralisée opérationnelle       |
+| 🔜 **Gouvernance**           | Phase 5     | Gouvernance communautaire opérationnelle       |
 
 ***
 
-_Roadmap Solaris v0.1 — Sujette à évolution selon les retours de la communauté et les avancées du développement._
+_Roadmap Solaris v0.1. Sujette à évolution selon les retours de la communauté et les avancées du développement._
