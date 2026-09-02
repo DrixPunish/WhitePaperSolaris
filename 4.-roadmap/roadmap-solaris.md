@@ -58,7 +58,7 @@
 | ✅ **Design System v1**      | Phase 2     | Charte graphique et composants UI validés      |
 | ✅ **Beta ouverte**          | Phase 2     | Accès public limité, interface finalisée       |
 | 🔨 **Ouverture du marché**   | Phase 3     | Marché des planètes et rampe d'accès actifs    |
-| 🔨 **Lancement du Solar**    | Phase 3     | Monnaie active, marché et staking disponibles  |
+| 🔨 **Lancement du Solar**    | Phase 3     | Monnaie active et marché intégré disponibles   |
 | 🔨 **Lancement public**      | Phase 3     | Jeu complet en production                       |
 | 🔜 **Saison 1**              | Phase 4     | Première saison compétitive officielle         |
 | 🔜 **Gouvernance**           | Phase 5     | Gouvernance communautaire opérationnelle       |
