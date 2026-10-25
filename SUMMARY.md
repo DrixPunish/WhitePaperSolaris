@@ -53,3 +53,4 @@
 * [V0.2](changelog/v0.2.md)
 * [V0.3](changelog/v0.3.md)
 * [V0.4](changelog/v0.4.md)
+* [V0.5](changelog/v0.4-1.md)
