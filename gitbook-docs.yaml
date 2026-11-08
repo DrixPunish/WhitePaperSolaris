@@ -1,19 +1,4 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: Solaris Whitepaper
-  structure:
-    - type: space
-      key: space-1
-      title: Whitepaper
-      path: docs
-      default: true
-      content:
-        directory: ./docs
-        language: fr
-    - type: space
-      key: space-2
-      title: Whitepaper English
-      path: whitepaper-english
-      draft: true
-      content:
-        directory: ./whitepaper-english
+  structure: []
