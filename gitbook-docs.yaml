@@ -14,7 +14,6 @@ site:
       key: space-2
       title: Whitepaper En
       path: whitepaper-en
-      draft: true
       content:
         directory: null
         language: en
