@@ -12,8 +12,9 @@ site:
         language: fr
     - type: space
       key: space-2
-      title: Copy of Whitepaper
+      title: Whitepaper En
       path: copy-of-whitepaper
       draft: true
       content:
         directory: ./copy-of-whitepaper
+        language: en
