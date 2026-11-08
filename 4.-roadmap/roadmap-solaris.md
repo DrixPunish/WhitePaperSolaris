@@ -1,66 +1,66 @@
-# 🗺️ Roadmap Solaris
+# 🗺️ Solaris Roadmap
 
-> Cette roadmap définit les grandes phases de développement du projet Solaris, depuis les fondations gameplay jusqu'au déploiement de l'économie complète. Elle s'organise en **5 phases** couvrant le développement technique, le design, la tokenomics, le whitepaper et la construction de la communauté.
+> This roadmap sets out the major development phases of the Solaris project, from the gameplay foundations to the deployment of the full economy. It is organized into **5 phases** covering technical development, design, tokenomics, the whitepaper and community building.
 
 ***
 
-### Vue d'ensemble
+### Overview
 
-| Phase       | Nom         | Focus principal                       | Statut       |
+| Phase       | Name        | Main focus                            | Status       |
 | ----------- | ----------- | ------------------------------------- | ------------ |
-| **Phase 1** | Genesis     | Core Gameplay & mécaniques            | ✅ Terminée   |
-| **Phase 2** | Forge       | Design & Expérience (UX/UI)           | ✅ Terminée   |
-| **Phase 3** | Horizon     | Économie & Tokenomics                 | 🔨 En cours  |
-| **Phase 4** | Expansion   | Contenu avancé & Gameplay étendu      | 🔜 Planifiée |
-| **Phase 5** | Sovereignty | Gouvernance & écosystème complet      | 🔜 Planifiée |
+| **Phase 1** | Genesis     | Core Gameplay & mechanics             | ✅ Complete   |
+| **Phase 2** | Forge       | Design & Experience (UX/UI)           | ✅ Complete   |
+| **Phase 3** | Horizon     | Economy & Tokenomics                  | 🔨 In progress |
+| **Phase 4** | Expansion   | Advanced content & extended gameplay  | 🔜 Planned   |
+| **Phase 5** | Sovereignty | Governance & full ecosystem           | 🔜 Planned   |
 
 ***
 
-### Communication & Communauté
+### Communication & Community
 
-#### Présence & Réseaux
+#### Presence & Networks
 
-* Création et animation du serveur Discord officiel Solaris
-* Compte Twitter/X dédié au projet
-* Chaîne YouTube / TikTok pour les devlogs et trailers
-* Newsletter mensuelle (Substack ou équivalent)
+* Creation and running of the official Solaris Discord server
+* Dedicated Twitter/X account for the project
+* YouTube / TikTok channel for devlogs and trailers
+* Monthly newsletter (Substack or equivalent)
 
-#### Contenu & Transparence
+#### Content & Transparency
 
-* **Devlog hebdomadaire** : avancement, décisions, retours de la communauté
-* **Roadmap publique** mise à jour en temps réel (ce document + Trello public)
-* Partage des résultats des tests, bugs trouvés, métriques de beta
-* Sessions Q\&A mensuelles en live (Discord / X Spaces)
+* **Weekly devlog**: progress, decisions, community feedback
+* **Public roadmap** updated in real time (this document + public Trello)
+* Sharing test results, bugs found, beta metrics
+* Monthly live Q&A sessions (Discord / X Spaces)
 
-#### Croissance
+#### Growth
 
-* Programme de whitelist early access (récompenses pour les premiers inscrits)
-* Referral program : inviter des joueurs = bonus en ressources ou SLR
-* Tournois et événements communautaires dès la beta
-* Compétitions de design (skins de vaisseaux, logos d'alliances soumis par la communauté)
+* Early-access whitelist program (rewards for the first sign-ups)
+* Referral program: inviting players = bonus in resources or SLR
+* Tournaments and community events from the beta onward
+* Design competitions (ship skins, alliance logos submitted by the community)
 
-#### Whitepaper & Légitimité
+#### Whitepaper & Legitimacy
 
-* Publication du Whitepaper v0.9 (draft public) dès la fin de la Phase 1
-* Mise à jour itérative du WP à chaque phase
-* Traduction EN/FR systématique
-* Dépôt GitBook public accessible sans inscription
+* Publication of Whitepaper v0.9 (public draft) from the end of Phase 1
+* Iterative WP updates at each phase
+* Systematic EN/FR translation
+* Public GitBook repository accessible without sign-up
 
 ***
 
-### Jalons clés
+### Key milestones
 
-| Jalon                        | Phase       | Description                                    |
+| Milestone                    | Phase       | Description                                    |
 | ---------------------------- | ----------- | ---------------------------------------------- |
-| ✅ **WP Mécaniques v1**       | Pré-Phase 1 | Section Mécaniques du Whitepaper rédigée       |
-| ✅ **Alpha interne**         | Phase 1     | Toutes les mécaniques jouables en interne      |
-| ✅ **Beta fermée**           | Phase 1→2   | 50–200 testeurs invités, feedback gameplay     |
-| ✅ **Design System v1**      | Phase 2     | Charte graphique et composants UI validés      |
-| ✅ **Beta ouverte**          | Phase 2     | Accès public limité, interface finalisée       |
-| 🔨 **Ouverture du marché**   | Phase 3     | Marché des planètes et rampe d'accès actifs    |
-| 🔨 **Lancement du Solar**    | Phase 3     | Monnaie active et marché intégré disponibles   |
-| 🔨 **Lancement public**      | Phase 3     | Jeu complet en production                       |
-| 🔜 **Saison 1**              | Phase 4     | Première saison compétitive officielle         |
-| 🔜 **Gouvernance**           | Phase 5     | Gouvernance communautaire opérationnelle       |
+| ✅ **WP Mechanics v1**        | Pre-Phase 1 | Mechanics section of the Whitepaper written    |
+| ✅ **Internal alpha**         | Phase 1     | All mechanics playable internally              |
+| ✅ **Closed beta**            | Phase 1→2   | 50–200 invited testers, gameplay feedback      |
+| ✅ **Design System v1**       | Phase 2     | Visual identity and UI components validated    |
+| ✅ **Open beta**              | Phase 2     | Limited public access, finalized interface     |
+| 🔨 **Market opening**        | Phase 3     | Planet market and access ramp live             |
+| 🔨 **Solar launch**          | Phase 3     | Currency active and built-in market available  |
+| 🔨 **Public launch**         | Phase 3     | Full game in production                        |
+| 🔜 **Season 1**              | Phase 4     | First official competitive season              |
+| 🔜 **Governance**            | Phase 5     | Community governance operational               |
 
 ***

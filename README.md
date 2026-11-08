@@ -2,18 +2,18 @@
 icon: book-open
 ---
 
-# 1. Introduction à Solaris
+# 1. Introduction to Solaris
 
-> **Solaris** est un MMORTS spatial inspiré des fondamentaux d'OGame, réinventé avec une économie de jeu moderne. Le **Solar** est la monnaie de l'univers, les planètes sont des **objets de jeu uniques** que les joueurs possèdent réellement, et la gouvernance de l'univers appartient aux joueurs.
+> **Solaris** is a space MMORTS inspired by the fundamentals of OGame, reimagined with a modern game economy. The **Solar** is the currency of the universe, planets are **unique game objects** that players genuinely own, and governance of the universe belongs to the players.
 
-### **1.1. Concept Général**
+### **1.1. General Concept**
 
-Solaris est un jeu de stratégie spatiale massivement multijoueur (MMO), librement inspiré du célèbre jeu en ligne "OGame". Il en transpose l'expérience de base dans un cadre moderne, où la propriété réelle des actifs et une économie transparente et équitable viennent enrichir le gameplay sans le dénaturer. L'univers s'inspire de sagas comme Dune pour créer un contexte politique profond, avec des enjeux de pouvoir et d'influence.
+Solaris is a massively multiplayer online (MMO) space strategy game, freely inspired by the famous online game "OGame". It transposes that core experience into a modern setting, where real asset ownership and a transparent, fair economy enrich the gameplay without distorting it. The universe draws on sagas such as Dune to create a deep political backdrop, with stakes of power and influence.
 
-### **1.2. Objectifs**
+### **1.2. Goals**
 
-* Offrir une expérience de jeu de stratégie riche et familière aux vétérans d'OGame tout comme aux non initiés.
-* Bâtir une économie utile et non-intrusive, en évitant les écueils des jeux "play-to-earn" purement inflationnistes.
-* Créer une économie circulaire et durable autour d'une **monnaie unique**, le Solar.
-* Donner aux joueurs une véritable propriété sur leur expansion spatiale (les planètes).
-* Mettre en place un système de gouvernance et de compétition avec des rôles uniques inspirés de Dune, favorisant la stratégie et la collaboration.
+* Offer a rich strategy experience that feels familiar to OGame veterans and welcoming to newcomers alike.
+* Build a useful, non-intrusive economy, steering clear of the pitfalls of purely inflationary "play-to-earn" games.
+* Create a circular, sustainable economy around a **single currency**, the Solar.
+* Give players genuine ownership over their space expansion (the planets).
+* Set up a governance and competition system with unique roles inspired by Dune, fostering strategy and collaboration.
